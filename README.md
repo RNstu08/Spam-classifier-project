@@ -68,3 +68,18 @@ spam_classifier_project/
 ├── .gitignore
 ├── README.md
 └── venv/                   # Virtual Environment (ignored)
+
+## Inputs for Testing
+
+### Spam Message Examples
+1. Congratulations! You've won a $1000 Walmart gift card. Go to http://bit.ly/12345 to claim now!
+2. FREE entry in 2 a weekly competition to win FA Cup tickets. Text WIN to 87066 to enter.
+3. Urgent! Your mobile number has won £2,000 cash! Call 09061701461 now!
+4. You have been selected for a cash reward. Reply with your bank details now!
+
+### Ham Message Examples
+1. Hey, are we still on for lunch today at 1pm?
+2. Don't forget to bring your notes for the meeting tomorrow.
+3. Can you please pick up the groceries on your way home?
+4. I'm running a bit late, but I’ll be there in 10 minutes.
+
